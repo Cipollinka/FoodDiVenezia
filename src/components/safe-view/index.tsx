@@ -36,8 +36,8 @@ const SafeView: React.FC<PropsWithChildren<IProps>> = ({
 }) => {
   return (
     <SafeAreaView style={[styles.container, style, {backgroundColor: bg}]}>
-      <Image source={require('../../assets/images/bg.png')} style={{flex:1, width:'100%', height: '100%'}}/>
-      <View style={{flex:1, width:'100%', height:'100%', backgroundColor: 'black', opacity: 0.5}} />
+      <Image source={require('../../assets/images/bg.png')} style={{flex:1, width:'100%', height: '110%', position: 'absolute'}}/>
+      <View style={{flex:1, width:'100%', height:'110%', backgroundColor: 'black', opacity: 0.5, position:'absolute'}} />
       <View style={styles.header}>
         <View style={styles.flex}>
           {showBackButton && (
