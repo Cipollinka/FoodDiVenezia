@@ -1,0 +1,69 @@
+{
+  "recipes": [
+    {
+      "category": "main",
+      "name": "Risotto alla Venezia",
+      "description": "To prepare Risotto alla Venezia, you will need the following ingredients: 300 g Arborio rice, 1 liter of chicken broth, 1 onion, 150 ml of white wine, 50 g of Parmesan cheese, 2 tablespoons of olive oil, 50 g of butter, salt and pepper to taste. Start by finely chopping the onion. In a large skillet, heat the olive oil and add the onion. Sauté it over medium heat until it becomes translucent. Then, add the rice and fry it, stirring, for about 2 minutes until it becomes slightly transparent. After that, pour in the white wine and let it evaporate, stirring continuously. Gradually add the hot chicken broth, one ladle at a time, and keep stirring until the rice absorbs the broth. This process will take about 18-20 minutes, and at the end, the rice should be al dente. Once the rice reaches the desired consistency, remove the skillet from the heat, add the butter and grated Parmesan, and mix thoroughly. Taste and add salt and pepper as needed. Serve the risotto hot, garnished with a little more grated cheese and fresh herbs."
+    },
+    {
+      "category": "salad",
+      "name": "Caprese Salad with Mozzarella and Tomatoes",
+      "description": "To prepare Caprese salad, you will need fresh tomatoes (2-3 pieces), mozzarella (250 g), fresh basil, olive oil, salt, and black pepper. Start by slicing the tomatoes and mozzarella. Cut the tomatoes into rounds and the mozzarella into slices about 1 cm thick. On a large flat plate, alternate layers of tomato and mozzarella slices. Once all the ingredients are arranged, sprinkle fresh basil leaves on top. For the dressing, mix olive oil, salt, and pepper in a small bowl. Drizzle the dressing over the salad just before serving to maintain its freshness and flavor. This light and refreshing dish is perfect for hot days and is a great appetizer for main courses. Note: be sure to use only the freshest ingredients for the best taste!"
+    },
+    {
+      "category": "dessert",
+      "name": "Tiramisu",
+      "description": "To prepare classic tiramisu, you will need: 250 g of mascarpone, 3 eggs, 100 g of sugar, 200 ml of strong coffee, 1 packet of vanilla sugar, 30 g of cocoa powder, 200 g of ladyfingers, and 50 ml of liqueur (optional). In a separate bowl, beat the eggs with sugar until fluffy. Then add the mascarpone and vanilla sugar, gently mixing to maintain the texture. In another bowl, prepare the coffee by adding liqueur if using. Dip each ladyfinger into the coffee and lay them at the bottom of a dish. Then evenly distribute half of the mascarpone cream over the cookies. Repeat the layer with the remaining ladyfingers and finish with the cream. Cover the dish with plastic wrap and place it in the refrigerator for at least 4 hours, preferably overnight. Before serving, dust the top with cocoa powder. Tiramisu is a surprisingly light and delicate dessert that will delight you and your guests!"
+    },
+    {
+      "category": "drink",
+      "name": "Bellini Cocktail",
+      "description": "To prepare a Bellini cocktail, you will need: 1 part peach puree (or fresh peaches), 2 parts Prosecco, ice, and peach slices for garnish. Start by preparing the peach puree. If using fresh peaches, peel and slice them, then blend them until smooth, ensuring the puree is not too runny to maintain texture. In a tall champagne flute, pour the peach puree and then carefully add the Prosecco to retain the bubbles. Gently stir the cocktail with a spoon to combine the ingredients. For serving, add ice to the glass and garnish with a slice of peach on the rim. This cocktail has a fresh and fruity flavor, perfect for summer parties and celebrations."
+    },
+    {
+      "category": "meat",
+      "name": "Capuneta (Chicken with Vegetables)",
+      "description": "To prepare Capuneta, you will need: 1 chicken (about 1.5 kg), 2 carrots, 2 celery stalks, 1 onion, 3 cloves of garlic, 200 ml of white wine, 3-4 potatoes, olive oil, salt, pepper, and spices to taste. Start by cutting the chicken into serving pieces. In a large skillet or pot, heat the olive oil and fry the chicken pieces until golden brown. Remove the chicken from the skillet and set aside. In the same skillet, sauté the chopped onion, carrots, and celery until softened. Return the chicken to the skillet, add garlic, white wine, and diced potatoes. Season with salt, pepper, and your favorite spices. Cover and simmer over low heat for about 40-50 minutes, stirring occasionally. When the chicken is tender and well infused with the flavors of the vegetables and wine, turn off the heat. Serve the Capuneta hot with pieces of fresh bread."
+    },
+    {
+      "category": "dessert",
+      "name": "Panna Cotta",
+      "description": "To prepare panna cotta, you will need: 500 ml of cream, 100 g of sugar, 1 teaspoon of vanilla extract, 2 sheets of gelatin, and berry sauce for serving. Start by preparing the gelatin: soak it in cold water for 5-10 minutes to soften. In a saucepan over medium heat, combine the cream, sugar, and vanilla extract. Bring to a light boil, stirring constantly to dissolve the sugar. Once the mixture begins to boil, remove the saucepan from the heat. Squeeze the gelatin and add it to the hot cream mixture, stirring until completely dissolved. Pour the mixture into molds and let it cool at room temperature, then refrigerate for 4-6 hours, preferably overnight. Before serving, carefully invert the panna cotta onto a plate and drizzle with berry sauce. This dessert has a delicate texture and rich flavor, making it perfect for concluding any meal."
+    },
+    {
+      "category": "main",
+      "name": "Sarde in Saor",
+      "description": "Sarde in Saor is a traditional Venetian dish made with sardines. To prepare it, you will need 500 g of fresh sardines, 2 onions, 100 ml of white wine vinegar, 50 g of pine nuts, 50 g of raisins, 4 tablespoons of olive oil, salt, and pepper. Start by cleaning the sardines: remove the heads, guts, and bones, then rinse them under cold water. In a skillet, heat olive oil and sauté thinly sliced onions until they are soft and translucent. Add the white wine vinegar, raisins, and pine nuts, and simmer for a few minutes until the raisins swell. In another skillet, lightly fry the sardines for about 2-3 minutes on each side until they are golden. Once cooked, layer the sardines in a serving dish, pouring the onion mixture over them. Let the dish cool to room temperature; it is best served after marinating in the fridge for a few hours or overnight, allowing the flavors to meld beautifully."
+    },
+    {
+      "category": "salad",
+      "name": "Insalata di Polpo",
+      "description": "Insalata di Polpo is a refreshing octopus salad, perfect for warm days. For this recipe, you will need 500 g of octopus, 1 lemon, 2 potatoes, fresh parsley, 3 tablespoons of olive oil, salt, and pepper. Start by boiling a pot of water. Add the octopus and cook for about 30-40 minutes until tender. You can check its doneness by piercing it with a fork. In a separate pot, boil the potatoes until soft, then cool, peel, and cut into cubes. Once the octopus is cooked, let it cool slightly before cutting it into bite-sized pieces. In a large bowl, combine the octopus, potatoes, chopped parsley, olive oil, salt, and pepper. Squeeze lemon juice over the salad and mix well. Serve chilled or at room temperature for a delightful and light dish."
+    },
+    {
+      "category": "dessert",
+      "name": "Zabaione",
+      "description": "Zabaione is a classic Italian dessert made with egg yolks, sugar, and wine. To prepare it, you will need 4 egg yolks, 100 g of sugar, 150 ml of Marsala wine, and a pinch of salt. In a heatproof bowl, whisk the egg yolks and sugar until the mixture turns pale and fluffy. Add the Marsala wine and a pinch of salt. Place the bowl over a pot of simmering water (double boiler) and whisk continuously for about 10 minutes until the mixture thickens and becomes creamy. Be careful not to let the bowl touch the water to avoid cooking the eggs. Once done, remove from heat and let it cool slightly. You can serve Zabaione warm or chilled, either on its own or with fresh fruits like berries or peaches for a delightful treat."
+    },
+    {
+      "category": "drink",
+      "name": "Spritz Veneziano",
+      "description": "Spritz Veneziano is a refreshing Venetian cocktail that is perfect for summer. You will need 3 parts Prosecco, 2 parts Aperol or Campari, and a splash of soda water. Begin by filling a wine glass with ice. Pour in the Prosecco, followed by the Aperol or Campari, and then top it off with soda water. Stir gently to mix the ingredients without losing the bubbles. Garnish with a slice of orange or an olive for a touch of flavor. This cocktail has a bright orange color and a bittersweet taste, making it a favorite among locals and tourists alike. Enjoy it as an aperitif before dinner!"
+    },
+    {
+      "category": "meat",
+      "name": "Fegato alla Veneziana",
+      "description": "Fegato alla Veneziana is a classic Venetian dish made with veal liver. For this recipe, you will need 500 g of veal liver, 2 onions, 100 ml of white wine, 4 tablespoons of olive oil, salt, and pepper. Start by cleaning the liver, removing any membranes and veins. Cut it into slices. In a large skillet, heat olive oil and sauté thinly sliced onions until they are soft and golden. Add the liver slices and cook for about 3-4 minutes on each side until browned but still slightly pink inside. Pour in the white wine and let it simmer for a few minutes, allowing the alcohol to evaporate and the flavors to meld. Season with salt and pepper to taste. Serve the dish warm, accompanied by polenta or crusty bread to soak up the delicious sauce."
+    },
+    {
+      "category": "main",
+      "name": "Polenta",
+      "description": "Polenta is a traditional Italian side dish made from cornmeal. For this recipe, you will need 250 g of cornmeal, 1 liter of water, 1 teaspoon of salt, and 50 g of butter or olive oil. In a large pot, bring the water to a boil and add the salt. Gradually whisk in the cornmeal, stirring continuously to avoid lumps. Reduce the heat to low and continue to stir for about 30-40 minutes until the polenta thickens and pulls away from the sides of the pot. If desired, add butter or olive oil for extra flavor. Once cooked, pour the polenta into a greased dish and let it cool slightly before slicing it into pieces. It can be served soft or allowed to set and then grilled or baked, making it a versatile accompaniment to various dishes."
+    },
+    {
+      "category": "dessert",
+      "name": "Buranelli",
+      "description": "Buranelli are traditional Venetian cookies shaped like rings, perfect for tea or coffee. For this recipe, you will need 250 g of flour, 100 g of sugar, 100 g of butter, 2 eggs, 1 teaspoon of baking powder, and a pinch of salt. In a mixing bowl, cream together the butter and sugar until light and fluffy. Add the eggs one at a time, mixing well after each addition. Sift in the flour, baking powder, and salt, and mix until a smooth dough forms. Preheat the oven to 180°C (350°F). On a lightly floured surface, roll out the dough into a long rope and shape it into rings. Place the cookies on a baking sheet lined with parchment paper and bake for about 15-20 minutes until golden. Let them cool completely before serving. These delightful cookies can be stored in an airtight container for several days."
+    }
+  ]
+}

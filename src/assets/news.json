@@ -1,0 +1,24 @@
+{
+  "news": [
+    {
+      "name": "Spiced Pumpkin Soup",
+      "description": "This Spiced Pumpkin Soup combines the natural sweetness of roasted pumpkin with a rich blend of spices that add warmth and depth. Freshly roasted pumpkin is blended until smooth with caramelized onions, garlic, and vegetable broth, creating a creamy base. Hints of cinnamon, nutmeg, and ginger infuse the soup with a subtle sweetness, balanced by a pinch of smoked paprika for a hint of heat. Topped with a dollop of Greek yogurt and garnished with toasted pumpkin seeds and fresh parsley, this soup is as visually pleasing as it is delicious. A cozy choice for fall, it's perfect as an appetizer or a light meal.",
+      "image": "https://images.unsplash.com/photo-1505253217808-2ae92da60d43"
+    },
+    {
+      "name": "Saffron Risotto with Wild Mushrooms",
+      "description": "This luxurious Saffron Risotto is a decadent Italian dish that’s all about flavor and texture. Arborio rice is cooked slowly with white wine and vegetable broth, achieving a creamy consistency without using any cream. The earthy, nutty flavors of sautéed wild mushrooms complement the subtle floral notes of saffron, creating an aroma that fills the kitchen. The dish is finished with freshly grated Parmesan, a touch of truffle oil, and chopped chives for garnish. Rich yet balanced, this risotto can be served as a sophisticated main course or a memorable side dish alongside roast meats.",
+      "image": "https://images.unsplash.com/photo-1604344955504-7e259ac8cb48"
+    },
+    {
+      "name": "Vegan Chocolate Avocado Mousse",
+      "description": "This Vegan Chocolate Avocado Mousse offers a unique twist on classic chocolate mousse, using ripe avocados as the creamy base. Avocados are blended with cocoa powder, almond milk, and a touch of maple syrup, creating a smooth, decadent texture without any dairy. The result is a chocolatey, rich dessert that’s surprisingly light and nutritious. Topped with fresh raspberries, chopped pistachios, or coconut flakes, this mousse is not only vegan and gluten-free but also packed with healthy fats and antioxidants. It’s the perfect guilt-free indulgence for chocolate lovers.",
+      "image": "https://images.unsplash.com/photo-1599785209792-6c842fae0c8d"
+    },
+    {
+      "name": "Spicy Korean Fried Chicken",
+      "description": "Spicy Korean Fried Chicken, known as Yangnyeom-tongdak, is a beloved street food with a unique, addictive flavor. Chicken pieces are double-fried to achieve an extra-crispy exterior, then tossed in a thick, glossy sauce made from gochujang (Korean chili paste), garlic, soy sauce, and honey. The sauce is spicy, sweet, and savory, coating each piece with a sticky glaze that’s impossible to resist. Garnished with sesame seeds and chopped green onions, this dish is perfect for sharing. Served with pickled radishes to balance the heat, it's a flavor-packed snack or main course that satisfies any craving for bold, spicy flavors.",
+      "image": "https://images.unsplash.com/photo-1601924573559-2b7c9b1b4f77"
+    }
+  ]
+}
