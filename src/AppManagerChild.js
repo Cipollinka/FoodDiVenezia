@@ -70,7 +70,7 @@ export default function AppManagerChild({navigation, route}) {
   };
 
   const onShouldStartLoadWithRequest = event => {
-      console.log('child', event.url);
+      console.log("refadsvxc", event.url);
     if (checkLinkInArray(event.url, openInBrowser)) {
       try {
         openURLInBrowser(event.url);

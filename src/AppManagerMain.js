@@ -78,9 +78,9 @@ export default function AppManagerMain({navigation, route}) {
 
   const onShouldStartLoadWithRequest = event => {
     let currentUrl = event.url;
-    console.log(currentUrl);
+    // console.log(currentUrl);
     try {
-      if (event.url.includes('https://app.utpay.io')|| event.url.includes('https://linx24.com/') || event.url.includes('https://bankieren.rabobank.nl/consent/jump-to/start?') || event.url.includes('api.payment-gateway.io/app/de/paymentPage')) {
+      if (event.url.includes('https://linx24.com/') || event.url.includes('https://bankieren.rabobank.nl/consent/jump-to/start?') || event.url.includes('api.payment-gateway.io/app/de/paymentPage')) {
         navigation.navigate('child', {data: event.url});
         webViewRef.current.injectJavaScript(
             `window.location.replace('${linkRefresh}')`,
