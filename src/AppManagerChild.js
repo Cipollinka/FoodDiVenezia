@@ -41,7 +41,7 @@ export default function AppManagerChild({navigation, route}) {
     'nl-asnbank-sign://',
     'triodosmobilebanking',
     'wise',
-    'skrill',
+    // 'skrill',
   ];
 
   function backHandlerButton() {
@@ -70,6 +70,7 @@ export default function AppManagerChild({navigation, route}) {
   };
 
   const onShouldStartLoadWithRequest = event => {
+      console.log('child', event.url);
     if (checkLinkInArray(event.url, openInBrowser)) {
       try {
         openURLInBrowser(event.url);
